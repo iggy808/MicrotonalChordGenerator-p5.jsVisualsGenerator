@@ -95,7 +95,7 @@ def mainSequence():
     if recordController == "y":
         gatherData(voices)
     elif recordController == "n":
-        print("fuck u")
+        print(":/")
         return
     
 

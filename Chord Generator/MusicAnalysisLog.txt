@@ -1,0 +1,282 @@
+2021-06-24 23:06:10.590285
+Voice 1: frequency: 220, waveform: trongle
+Voice 2: frequency: 293.6647679174076, waveform: square
+Voice 3: frequency: 523.2511306011972, waveform: trongle
+Voice 4: frequency: 523.2511306011972, waveform: trongle
+Voice 5: frequency: 493.8833012561241, waveform: trongle
+2021-06-24 23:07:01.150687
+Voice 1: frequency: 220, waveform: trongle
+Voice 2: frequency: 329.6275569128699, waveform: square
+Voice 3: frequency: 329.6275569128699, waveform: trongle
+Voice 4: frequency: 184.9972113558172, waveform: trongle
+Voice 5: frequency: 123.47082531403103, waveform: square
+2021-06-24 23:20:50.823689
+Voice 1: frequency: 330, waveform: tronlg
+Half-steps away from previous note: N/AVoice 2: frequency: 587.9931539726239, waveform: square
+Half-steps away from previous note: N/A2021-06-24 23:21:12.895280
+Voice 1: frequency: 220, waveform: trongle
+Half-steps away from previous note: N/AVoice 2: frequency: 233.08188075904496, waveform: square
+Half-steps away from previous note: N/AVoice 3: frequency: 233.08188075904496, waveform: square
+Half-steps away from previous note: N/A2021-06-24 23:22:14.763546
+Voice 1: frequency: 415, waveform: trongle
+Half-steps away from previous note: N/A
+Voice 2: frequency: 697.9440246605831, waveform: trongle
+Half-steps away from previous note: 9
+Voice 3: frequency: 553.9585394805642, waveform: trongle
+Half-steps away from previous note: -4
+Voice 4: frequency: 493.5209527261292, waveform: square
+Half-steps away from previous note: -2
+Voice 5: frequency: 493.5209527261292, waveform: trongle
+Half-steps away from previous note: 0
+2021-06-24 23:24:20.442866
+Voice 1: frequency: 415, waveform: trongle
+Half-steps away from previous note: N/A
+Voice 2: frequency: 465.8217500483898, waveform: trongle
+Half-steps away from previous note: 2
+Voice 3: frequency: 553.9585394805642, waveform: trongle
+Half-steps away from previous note: 3
+Voice 4: frequency: 553.9585394805642, waveform: square
+Half-steps away from previous note: 0
+2021-06-24 23:25:09.395257
+Voice 1: frequency: 415, waveform: trongle
+Half-steps away from previous note: N/A
+Voice 2: frequency: 553.9585394805642, waveform: square
+Half-steps away from previous note: 5
+Voice 3: frequency: 830.0, waveform: square
+Half-steps away from previous note: 7
+Voice 4: frequency: 1173.797256769669, waveform: trongle
+Half-steps away from previous note: 6
+Voice 5: frequency: 987.0419054522586, waveform: square
+Half-steps away from previous note: -3
+Voice 6: frequency: 1566.8313590516111, waveform: square
+Half-steps away from previous note: 8
+Voice 7: frequency: 1317.5428731336053, waveform: trongle
+Half-steps away from previous note: -3
+Voice 8: frequency: 1659.9999999999998, waveform: trongle
+Half-steps away from previous note: 4
+2021-06-24 23:26:04.912807
+Voice 1: frequency: 314, waveform: trongle
+Half-steps away from previous note: N/A
+
+Voice 2: frequency: 186.7055170554272, waveform: square
+Half-steps away from previous note: -9
+
+Voice 3: frequency: 124.61098257950366, waveform: trongle
+Half-steps away from previous note: -7
+
+2021-06-24 23:27:37.729443
+Voice 1: frequency: 315, waveform: trongle
+Half-steps away from previous note: N/A
+----------------------Voice 2: frequency: 529.7647416098401, waveform: square
+Half-steps away from previous note: 9
+----------------------Voice 3: frequency: 667.461749446356, waveform: trongle
+Half-steps away from previous note: 4
+----------------------Voice 4: frequency: 1189.2816339789335, waveform: square
+Half-steps away from previous note: 10
+----------------------Voice 5: frequency: 667.4617494463558, waveform: trongle
+Half-steps away from previous note: -10
+----------------------2021-06-24 23:28:59.912019
+Voice 1: frequency: 314, waveform: trongle
+Half-steps away from previous note: N/A
+Voice 2: frequency: 470.468422139278, waveform: trongle
+Half-steps away from previous note: 7
+Voice 3: frequency: 332.67141162881876, waveform: trongle
+Half-steps away from previous note: -6
+Voice 4: frequency: 222.03152929257595, waveform: square
+Half-steps away from previous note: -7
+2021-06-24 23:30:00.428094
+Voice 1: frequency: 274, waveform: tronlge
+Half-steps away from previous note: N/A
+Voice 2: frequency: 274.0, waveform: square
+Half-steps away from previous note: 0
+Voice 3: frequency: 274.0, waveform: square
+Half-steps away from previous note: 0
+Voice 4: frequency: 182.87306002129472, waveform: square
+Half-steps away from previous note: -7
+2021-06-24 23:30:26.291053
+Voice 1: frequency: 374, waveform: trongle
+Half-steps away from previous note: N/A
+Voice 2: frequency: 471.21047266068257, waveform: square
+Half-steps away from previous note: 4
+Voice 3: frequency: 396.2391972903764, waveform: trongle
+Half-steps away from previous note: -3
+Voice 4: frequency: 593.6879934361066, waveform: trongle
+Half-steps away from previous note: 7
+--------------------------
+2021-06-24 23:31:54.785311
+Voice 1: frequency: 264, waveform: trongle
+Half-steps away from previous note: N/A
+Voice 2: frequency: 235.19726158904956, waveform: trongle
+Half-steps away from previous note: -2
+Voice 3: frequency: 221.99665362698065, waveform: square
+Half-steps away from previous note: -1
+Voice 4: frequency: 197.77653414772195, waveform: square
+Half-steps away from previous note: -2
+Voice 5: frequency: 104.76846942990116, waveform: square
+Half-steps away from previous note: -11
+--------------------------
+2021-06-24 23:42:48.150276
+Voice 1: frequency: 145, waveform: trongle
+Half-steps away from previous note: N/A
+Voice 2: frequency: 121.9299802117886, waveform: square
+Half-steps away from previous note: -3
+Voice 3: frequency: 129.1803141303492, waveform: square
+Half-steps away from previous note: 1
+Voice 4: frequency: 145.0, waveform: trongle
+Half-steps away from previous note: 2
+Voice 5: frequency: 115.08657626769447, waveform: square
+Half-steps away from previous note: -4
+--------------------------
+2021-06-26 08:57:10.714902
+Voice 1: frequency: 420, waveform: troblge
+Half-steps away from previous note: N/A
+Voice 2: frequency: 792.8544226526226, waveform: trongle
+Half-steps away from previous note: 11
+Voice 3: frequency: 792.8544226526226, waveform: square
+Half-steps away from previous note: 0
+Voice 4: frequency: 1187.9393923933999, waveform: square
+Half-steps away from previous note: 7
+Voice 5: frequency: 889.948999261808, waveform: square
+Half-steps away from previous note: -5
+Voice 6: frequency: 998.9339766022857, waveform: trongle
+Half-steps away from previous note: 2
+Voice 7: frequency: 1258.5779445764126, waveform: square
+Half-steps away from previous note: 4
+Voice 8: frequency: 998.9339766022858, waveform: square
+Half-steps away from previous note: -4
+--------------------------
+2021-06-26 22:01:07.734211
+Voice 1: frequency: 220, waveform: tronlge
+Half-steps away from previous note: N/A
+Voice 2: frequency: 146.8323839587038, waveform: square
+Half-steps away from previous note: -7
+Voice 3: frequency: 174.61411571650194, waveform: trongle
+Half-steps away from previous note: 3
+Voice 4: frequency: 220.0, waveform: square
+Half-steps away from previous note: 4
+Voice 5: frequency: 349.2282314330039, waveform: square
+Half-steps away from previous note: 8
+--------------------------
+2021-06-26 22:01:32.411612
+Voice 1: frequency: 220, waveform: trongle
+Half-steps away from previous note: N/A
+Voice 2: frequency: 349.2282314330039, waveform: square
+Half-steps away from previous note: 8
+Voice 3: frequency: 659.2551138257398, waveform: trongle
+Half-steps away from previous note: 11
+Voice 4: frequency: 1108.7305239074883, waveform: square
+Half-steps away from previous note: 9
+Voice 5: frequency: 1108.7305239074883, waveform: trongle
+Half-steps away from previous note: 0
+--------------------------
+2021-06-26 22:37:27.588581
+Voice 1: frequency: 220, waveform: trongle
+Half-steps away from previous note: N/A
+Voice 2: frequency: 174.61411571650194, waveform: square
+Half-steps away from previous note: -4
+Voice 3: frequency: 174.61411571650194, waveform: square
+Half-steps away from previous note: 0
+Voice 4: frequency: 261.6255653005986, waveform: trongle
+Half-steps away from previous note: 7
+Voice 5: frequency: 261.6255653005986, waveform: trongle
+Half-steps away from previous note: 0
+--------------------------
+2021-06-26 22:37:53.327115
+Voice 1: frequency: 220, waveform: trongle
+Half-steps away from previous note: N/A
+Voice 2: frequency: 195.99771799087463, waveform: square
+Half-steps away from previous note: -2
+Voice 3: frequency: 329.62755691286986, waveform: trongle
+Half-steps away from previous note: 9
+Voice 4: frequency: 246.941650628062, waveform: trongle
+Half-steps away from previous note: -5
+Voice 5: frequency: 369.99442271163434, waveform: square
+Half-steps away from previous note: 7
+--------------------------
+2021-06-26 22:39:01.095116
+Voice 1: frequency: 220, waveform: trongle
+Half-steps away from previous note: N/A
+Voice 2: frequency: 184.9972113558172, waveform: square
+Half-steps away from previous note: -3
+Voice 3: frequency: 146.8323839587038, waveform: square
+Half-steps away from previous note: -4
+Voice 4: frequency: 207.6523487899726, waveform: trongle
+Half-steps away from previous note: 6
+Voice 5: frequency: 391.9954359817493, waveform: square
+Half-steps away from previous note: 11
+--------------------------
+2021-06-26 22:43:02.200306
+Voice 1: frequency: 220, waveform: trongle
+Half-steps away from previous note: N/A
+Voice 2: frequency: 155.56349186104046, waveform: square
+Half-steps away from previous note: -6
+Voice 3: frequency: 146.8323839587038, waveform: trongle
+Half-steps away from previous note: -1
+Voice 4: frequency: 110.0, waveform: trongle
+Half-steps away from previous note: -5
+Voice 5: frequency: 155.56349186104046, waveform: trongle
+Half-steps away from previous note: 6
+--------------------------
+2021-06-26 22:45:17.376060
+Voice 1: frequency: 220, waveform: trongle
+Half-steps away from previous note: N/A
+Voice 2: frequency: 220.0, waveform: square
+Half-steps away from previous note: 0
+Voice 3: frequency: 391.99543598174927, waveform: trongle
+Half-steps away from previous note: 10
+Voice 4: frequency: 659.2551138257397, waveform: square
+Half-steps away from previous note: 9
+Voice 5: frequency: 830.6093951598901, waveform: trongle
+Half-steps away from previous note: 4
+--------------------------
+2021-06-26 22:46:16.444324
+Voice 1: frequency: 220, waveform: trongle
+Half-steps away from previous note: N/A
+Voice 2: frequency: 329.6275569128699, waveform: square
+Half-steps away from previous note: 7
+Voice 3: frequency: 440.0, waveform: trongle
+Half-steps away from previous note: 5
+Voice 4: frequency: 261.6255653005986, waveform: square
+Half-steps away from previous note: -9
+Voice 5: frequency: 219.99999999999997, waveform: trongle
+Half-steps away from previous note: -3
+--------------------------
+2021-06-26 23:17:48.558058
+Voice 1: frequency: 220, waveform: square
+Half-steps away from previous note: N/A
+Voice 2: frequency: 415.3046975799451, waveform: square
+Half-steps away from previous note: 11
+Voice 3: frequency: 277.1826309768721, waveform: trongle
+Half-steps away from previous note: -7
+Voice 4: frequency: 277.1826309768721, waveform: square
+Half-steps away from previous note: 0
+Voice 5: frequency: 523.2511306011972, waveform: trongle
+Half-steps away from previous note: 11
+--------------------------
+2021-07-01 23:12:04.206435
+Voice 1: frequency: 184, waveform: trongle
+Half-steps away from previous note: N/A
+Voice 2: frequency: 194.94120936211033, waveform: square
+Half-steps away from previous note: 1
+Voice 3: frequency: 163.9253641378224, waveform: trongle
+Half-steps away from previous note: -3
+Voice 4: frequency: 218.81410916050066, waveform: trongle
+Half-steps away from previous note: 5
+Voice 5: frequency: 154.7249404066835, waveform: trongle
+Half-steps away from previous note: -6
+Voice 6: frequency: 130.10764773832474, waveform: square
+Half-steps away from previous note: -3
+Voice 7: frequency: 81.96268206891122, waveform: trongle
+Half-steps away from previous note: -8
+--------------------------
+2021-07-04 00:32:46.241327
+Voice 1: frequency: 324, waveform: trongle
+Half-steps away from previous note: N/A
+Voice 2: frequency: 324.0, waveform: trongle
+Half-steps away from previous note: 0
+Voice 3: frequency: 242.7257464540224, waveform: trongle
+Half-steps away from previous note: -5
+Voice 4: frequency: 229.10259710444143, waveform: square
+Half-steps away from previous note: -1
+Voice 5: frequency: 136.22521927110176, waveform: trongle
+Half-steps away from previous note: -9

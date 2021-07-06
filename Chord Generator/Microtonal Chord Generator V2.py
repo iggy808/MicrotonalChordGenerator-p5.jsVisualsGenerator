@@ -84,7 +84,7 @@ def mainSequence():
     #timbreVariance - float [0,1], adjusts randomization on the waveform to allow for timbral consistency
     
     voice1 = Note(initFreq, initTimbre)
-    print(str(voice1.wavSamples))
+    #print(str(voice1.wavSamples))
     voices = generateVoices(voice1, voiceNum)
 
     displayVoiceData(voices, MusicTheoryData_halfsteps)

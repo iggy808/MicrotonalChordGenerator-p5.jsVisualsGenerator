@@ -29,12 +29,11 @@ class LabaSegment {
 
     //shapes identified with an integer shapeID. for now, 1 = Movement Right 
     var segMovementsArr = [];
-    var shapeID = 0;
+    var shapeID = Math.floor(Math.random() * 2);
 
     for (var i=0; i<voiceNum; i++){
-      //var shapeID = Math.floor(Math.random() * 2)
-      shapeID = 1;
       segMovementsArr.push(shapeID);
+      shapeID = Math.floor(Math.random() * 2);
     }
 
     return segMovementsArr
@@ -63,6 +62,20 @@ function drawMvtRight(seg,currentBeat_y) {
   fill(0);
   stroke(0);
   triangle(seg.midLine_x,currentBeat_y, seg.midLine_x,currentBeat_y-200,seg.midLine_x+50,currentBeat_y-100);
+}
+
+function drawMvtRightForward(seg,currentBeat_y) {
+  fill(0);
+  stroke(0);
+  triangle(seg.midLine_x+50,currentBeat_y-200,seg.midLine_x,currentBeat_y-125,seg.midLine_x+50,currentBeat_y-125);
+  rect(seg.midLine_x,currentBeat_y-125,50,125);
+}
+
+function drawMvtRightBackwards(seg,currentBeat_y) {
+  fill(0);
+  stroke(0);
+  triangle(seg.midLine_x+50,currentBeat_y,seg.midLine_x,currentBeat_y-75,seg.midLine_x+50,currentBeat_y-75);
+  rect(seg.midLine_x,currentBeat_y-200,50,125);
 }
 
 
@@ -121,8 +134,11 @@ function drawStaffLines(seg){
 function drawMvtShapes(seg) {
 
   for (i=0;i<seg.segMovements.length;i++){
-    if (seg.segMovements[i]==1){
+    if (seg.segMovements[i]==0){
       drawMvtRight(seg,seg.beatPositionArr[i]);
+    }
+    if (seg.segMovements[i]==1){
+      drawMvtRightForward(seg,seg.beatPositionArr[i]);
     }
 
 

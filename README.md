@@ -1,4 +1,4 @@
-# MicrotonalChordGenerator-p5.jsVisualsGenerator
+# Procedural-MicrotonalChordGenerator_LabanotationGenerator
 
 This project is an attempt to create procedurally generated music/labanotation in two separate yet interdependent stages. 
 
@@ -10,7 +10,7 @@ The microtonal chord generator produces a chord in which every new element is cr
 
 After the chord is generated, the data is recorded into two separate logs: one for musical analysis, and one for raw data. The log for musical analysis is legible and tidy, allowing for theoretical analysis of the chords, while the log for raw data is in a stripped, compact form giving only what is needed for parsing in the next stage.
 
-STAGE 2: Procedural Labanotation Generator
+STAGE 2: Labanotation Generator
 
 --UNDER CONSTRUCTION--
 
